@@ -1,13 +1,13 @@
 # Site settings
-title: 生命不止，折腾不息
-author: MonsterSlayer
-author_avatar: /images/header.jpg
-email: alias@domain.tld
-description: 生命不止，折腾不息 
-url: "https://dongyadoit.com"
-domain: "http://dongyadoit.com"
-github_username: dongyado
-github_site_repo: dongyado/dongyado.github.io
+title: Miracleyin's Blog
+author: yinzhang
+author_avatar: /images/header1.jpg
+email: miracleyin@live.com
+description: 一件事没法评估就没法优化
+url: "https://miracleyin.github.io/"
+domain: "https://miracleyin.github.io/"
+github_username: Miracleyin
+github_site_repo: MIracleyin/Miracleyin.github.io
 disqus: monsterslayer
 
 

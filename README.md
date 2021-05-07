@@ -1,7 +1,7 @@
 dongyado's blog
 =====
 
-visit with : http://dongyadoit.com
+visit with : https://miracleyin.github.io/
 
 ### 
 - notes of development
